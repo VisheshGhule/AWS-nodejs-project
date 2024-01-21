@@ -70,7 +70,7 @@ npm run start
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
 
 ### Project is deployed on AWS 🎉
-
-### To understand it better, please visit the blog provided below.
+---
+# To understand it better, please visit the blog provided below.
 <a href="https://visheshblog.hashnode.dev/day-29-deploying-nodejs-application-on-aws-ec2">Blog Link</a>
 
