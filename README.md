@@ -72,4 +72,5 @@ npm run start
 ### Project is deployed on AWS 🎉
 
 ### To understand it better, please visit the blog provided below.
-https://visheshblog.hashnode.dev/day-29-deploying-nodejs-application-on-aws-ec2
+<a href="https://visheshblog.hashnode.dev/day-29-deploying-nodejs-application-on-aws-ec2">Blog Link</a>
+
