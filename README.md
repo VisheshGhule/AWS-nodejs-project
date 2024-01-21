@@ -1,4 +1,4 @@
-# Deploying a Node Js Application on AWS EC2
+# ✨️ Deploying a Node Js Application on AWS EC2
 
 ### Testing the project locally
 
@@ -71,6 +71,6 @@ npm run start
 
 ### Project is deployed on AWS 🎉
 ---
-# To understand it better, please visit the blog provided below.
+## ✨️ To understand it better, please visit the blog provided below.
 <a href="https://visheshblog.hashnode.dev/day-29-deploying-nodejs-application-on-aws-ec2">Blog Link</a>
 
